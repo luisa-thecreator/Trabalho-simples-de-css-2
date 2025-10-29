@@ -1,0 +1,25 @@
+#principal {
+  color: navy;
+  text-align: center;
+}
+
+.destaque {
+  color: darkred;
+  font-weight: bold;
+}
+
+p {
+  font-family: Arial, sans-serif;
+}
+
+ul li {
+  color: green;
+}
+
+a:hover {
+  color: orange;
+}
+
+h1::after {
+  content: " 🚀";
+}
